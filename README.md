@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ileana Argyris</h1>
 <h3 align="center">A passionate developer from Hawaii.</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://argyrisileana.com/](https://argyrisileana.com/)
 
